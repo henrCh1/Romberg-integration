@@ -2,7 +2,6 @@
 """
 Created on Wed Feb 22 21:16:57 2023
 
-@author: 86319
 """
 
 # 定义函数f(x)
